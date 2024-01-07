@@ -1,0 +1,26 @@
+[
+    {
+      "question": "which is more far?",
+      "choice1": "sun",
+      "choice2": "moon",
+      "choice3": "saturn",
+      "choice4": "betlejuse",
+      "answer": 4
+    },
+    {
+      "question": "most gravity?",
+      "choice1": "sun",
+      "choice2": "earth",
+      "choice3": "mars",
+      "choice4": "pluto",
+      "answer": 1
+    },
+    {
+      "question": " virat or dhoni",
+      "choice1": "both",
+      "choice2": "dhoni",
+      "choice3": "no comments",
+      "choice4": "or btao",
+      "answer": 2
+    }
+  ]
